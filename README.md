@@ -60,5 +60,5 @@
     When a user types, after each keystroke update the tip amount
     HINT: look for the `input` event
 
-    Also change the price automatically when the dropdown is selected
+    Also change the tip amount automatically when the dropdown is selected
     HINT: look for the change event
