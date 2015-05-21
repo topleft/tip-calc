@@ -50,3 +50,11 @@
     Then they should see the correct tip amount appear beneath the text field
 
 ![](wireframes/tip-calculator-amount.png)
+
+**Users see the tip amount update as they type**
+
+    When a user types, after each keystroke update the tip amount
+    HINT: look for the `input` event
+
+    Also change the price automatically when the dropdown is selected
+    HINT: look for the change event
