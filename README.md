@@ -10,7 +10,11 @@
     * app.js
 1. Commit and push / submit a pull request
 1. Work through the stories (committing and pushing as you go)
+1. Validate your HTML
 1. Deploy to S3
+1. Add your S3 URL right here:
+
+[ENTER URL HERE]
 
 ## Stories
 
