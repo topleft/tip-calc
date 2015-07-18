@@ -1,8 +1,6 @@
 # Tip Calculator
 
-[ENTER URL HERE]
-
-Please skim through this entire document first.  Specific instructions for what to do in which order appear further down.
+Please skim through this entire document first.  Specific instructions for what to do (and in which order) appear further down.
 
 ## Set the stage
 
@@ -44,6 +42,8 @@ Being able to keep your code organized is crucial to keeping the long-term cost 
   - add a simple style change, like a background color on `body`, to verify that it's referenced correctly
 1. In git, commit, push and start a a pull request
 
+---
+
 **User can see a properly styled form**
 
 Write your HTML according to the wireframe below.  Make sure to include:
@@ -76,6 +76,8 @@ It's easier to be brave and take risks when you've saved a recent copy of your w
 
 Hi-five!  One down...
 
+---
+
 **User can see the correct tip amount when they enter just a number (without a $)**
 
 Write javascript to satisfy the following user story:
@@ -105,6 +107,8 @@ Commit:
 
 You've just done some awesome work.  In git, commit and push to save your work.
 
+---
+
 **User can see the correct tip amount when they enter a number with $**
 
 Update your javascript to satisfy the following user story:
@@ -121,6 +125,8 @@ Check your work:
   - If not, go back and make sure that all previous functionality still works
 
 Commit and push.
+
+---
 
 **User can choose the percent they'd like to tip**
 
@@ -144,6 +150,8 @@ Check your work:
 If you ever see errors in the console, fix them before committing.
 
 Commit with a descriptive message and push.
+
+---
 
 **Refactor**
 
