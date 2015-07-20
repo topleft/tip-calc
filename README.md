@@ -214,7 +214,7 @@ What new questions do you have now that you've gone through this exercise?
 
 List at least 4 here:
 
-1.
-1.
-1.
-1.
+1. 
+1. 
+1. 
+1. 
