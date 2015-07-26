@@ -7,8 +7,8 @@ function getUserInput(elem, index){
 }
 
 
-function calcTip (total){
-    var tip = total * 0.20;
+function calcTip (total, percent){
+    var tip = total * percent;
     tip = tip.toFixed(2);
     return tip;
 }
@@ -37,8 +37,9 @@ function runCalc(){
 
   button.addEventListener("click", function(e){
     e.preventDefault();
-    var userInput = getUserInput("input", 0);
-    var tip = calcTip(userInput);
+    var userAmt = getUserInput("input", 0);
+    var userPercent = getUserInput("select", 0);
+    var tip = calcTip(userAmt, userPercent);
     evaluateAndPostTip(tip, tipSpot);
   });
 }
