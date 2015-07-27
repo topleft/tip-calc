@@ -65,7 +65,7 @@ Self-assess:
 - Is your HTML valid according to https://validator.w3.org/nu/ ?
   - Use the "text input" option and paste your HTML
   - If not, fix any errors and revalidate
-- Are you using inline styles or style elements to center the fields?  
+- Are you using inline styles or style elements to center the fields?
   - If so, move any `style` attributes or `center` tags to the linked css file
 - When you click in the amount field and start typing, does the initial text disappear?
   - If not, you may have used `value` instead of `placeholder`, as indicated by the wireframe
@@ -214,7 +214,7 @@ What new questions do you have now that you've gone through this exercise?
 
 List at least 4 here:
 
-1. 
-1. 
-1. 
-1. 
+1. How to put an event listener inside a reusable function? Is this a good idea, or worthwhile?
+1. How different would this look in jQuery?
+1. At what steps would I fire up jasmine? From the very begginning?
+1.
